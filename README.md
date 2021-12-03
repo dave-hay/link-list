@@ -1,3 +1,4 @@
+
 # Link List
 
 ## Programming
@@ -16,6 +17,8 @@ Description: Repository of links that are useful or interesting related to progr
 - [Segment](https://segment.com/docs/connections/sources/catalog/libraries/server/http-api/#authentication)
 - [Notion](https://developers.notion.com/)
 - [GitHub list of APIs](https://github.com/todsac/public-apis#public-apis-)
+- [Open API](https://openai.com/api/)
+- [GS Quant](https://developer.gs.com/docs/gsquant/)
 
 ### Bootstrap
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
@@ -40,16 +43,22 @@ Description: Repository of links that are useful or interesting related to progr
 ### Misc
 - [Image to Ascii](https://manytools.org/hacker-tools/convert-images-to-ascii-art/)
 
-
-## Startup
-Description: Links relating to resources, guides and services that can be of use for starting a business.
+### Startup
 - [Ultimate No BS Guide For Startups](https://www.reddit.com/r/Entrepreneur/comments/q7by8n/the_ultimate_no_bs_guide_for_startups_with_dozens/)
 - [Sequoia Capital Pitch Deck](https://perfectpitchdeck.com/2018/01/30/sequoia-capital-pitch-deck-template/)
 - [Frontier](https://frontier.pioneer.app/) is a community of founders.
 - [No code app](https://thunkable.com)
 
-## Edx Courses
+# Education / Classes
+
+### Programming
+- [AWS re:Skill](https://awsreskill.com)
+
+### Economics
 - [Behavioral Economics In Action](https://www.edx.org/new/course/behavioural-economics-in-action)
+
+### Philosophy
+- [Intro to Philosophy](https://www.coursera.org/learn/philosophy)
 - [Introduction to Philosophy: God, Knowledge and Consciousness](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2?index=product&queryID=50c63e14d4e555797bcbf10c8493c265&position=1)
 - [Philosophy and Critical Thinking](https://www.edx.org/new/course/philosophy-and-critical-thinking)
 - [Question Reality! Science, philosophy, and the search for meaning](https://www.edx.org/course/question-reality-science-philosophy-and-the-search?index=product&queryID=7787fca0ee43c6255cfd8c9de2b01fb5&position=6)
